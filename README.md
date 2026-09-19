@@ -10,7 +10,7 @@ Antes de migrar para a área, atuei no setor administrativo, com suporte ao fina
 <br /> <!-- ===================== FORMAÇÃO ===================== -->
 Formação acadêmica
 Curso	Instituição	Período
-Bacharelado em Engenharia da Computação	<!-- Nome da instituição -->	Em andamento <!-- ex.: 2023 — previsão 2028 -->
+Bacharelado em Engenharia da Computação	Unoesc — Universidade do Oeste de Santa Catarina	2025 — previsão de conclusão em 2028
 Base em lógica de programação, algoritmos, estruturas de dados e engenharia de software — conhecimento que aplico nos meus projetos web.
 
 <br /> <!-- ===================== OBJETIVO ===================== -->
